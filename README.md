@@ -12,6 +12,7 @@ A company's reputation with their clients will increase when the company places 
 
 ## Which part of the vulnerability assessment was challenging or helpful to you?
 
+The most challenging part of the vulnerability assessment was determining false positives. Although not perfect, I believe I have strengthened my skill deciding if a vulnerability is a real issue or just a false positive. Through more research and practice, my ability to identify false positives will greatly improve.
 
 ## How did you increase layers of security? In the future, what would you use to assess vulnerabilities and decide which mitigation techniques to use?
 
