@@ -5,7 +5,9 @@ The client, Artemis Financial, is a company that helps their clients with financ
 ## What did you do well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall well-being?
 
 After finding the client’s software security vulnerabilities, I effectively documented the findings in a security report. This report not only provided the client a summary of the vulnerabilities, but a way to mitigate those vulnerabilities as well.
+
 Coding securely, especially during the entirety of a project, will help mitigate most known software vulnerabilities from being deeply integrated into the project. This helps to speed up project development since there will be less time needed for fixing software vulnerabilities after the project has been launched.
+
 A company's reputation with their clients will increase when the company places more focus in software security in their projects. Not only this, but the company's own data, code, and even hardware will be safer from being lost, stolen, or manipulated since attackers will have a much higher difficulty breaking in to their systems. 
 
 ## Which part of the vulnerability assessment was challenging or helpful to you?
