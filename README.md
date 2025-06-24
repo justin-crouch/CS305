@@ -16,6 +16,9 @@ The most challenging part of the vulnerability assessment was determining false 
 
 ## How did you increase layers of security? In the future, what would you use to assess vulnerabilities and decide which mitigation techniques to use?
 
+Adding layers of security began by gathering and studying what the client needed. When these needs were identified, solutions were brainstormed, researched, and refactored so to be valuable to the client and correctly secured when implemented. After each solution was implemented, the code was statically analyzed, using the OWASP Dependency-Check tool, for any new vulnerabilities from libraries. The code was also manually analyzed for verifying that all user input is cleaned and validated, any queries are parameterized, all access points have authorization and authentication rules, etc.
+
+In the future, I would continue to use a static analysis tool for analyzing library vulnerabilities. I would also use a dynammic analysis tool for discovering runtime vulnerabilities. These tools, plus a manual code review, would thoroughly inform me which mitigation techniques to use.
 
 ## How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
 
