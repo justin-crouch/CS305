@@ -22,6 +22,7 @@ In the future, I would continue to use a static analysis tool for analyzing libr
 
 ## How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
 
+I made certain the software application was functional and secure by utilizing the Test-Driven Development technique. Specifically, I would write a couple lines of code, test for functionality, fix errors, and retest for functionality; immediately afterwards, I would test the added code for security vulnerabilities, fix issues, and retest. Once a portion of code was refactored, I used the OWASP Dependency-Check tool and manually reviewed the code to check if any new vulnuerabilities were introduced; if so, I would handle those vulnerabilities before continuing with development.
 
 ## What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
 
