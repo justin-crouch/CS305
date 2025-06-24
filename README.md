@@ -29,3 +29,5 @@ I made certain the software application was functional and secure by utilizing t
 A static analysis tool, like the OWASP Dependency-Check tool, will be greatly helpful in future assignments that consist of developing server applications. The Principle of Least Privilege will most likely be the most helpful in the future since this principle can be applied in almost every level of an application and can help mitigate the damage of many security attacks.
 
 ## Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
+
+I may show future employers the software vulnerability assessment report from this assignment. This would summarize the skills I obtained to analyze software for vulnerabilities, summarize these vulnerabilities, and provide a plan to mitigate these security issues.
